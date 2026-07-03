@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saint-nazaire.developpementapps.app/sitemap.xml
